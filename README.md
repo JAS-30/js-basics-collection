@@ -1,7 +1,7 @@
 # js-basics-collection
 Collection of js projects for beginners.
 
-## These projects will give you a taste of what js can do while working with functions and DOM manipulation.
+## These projects will give you a sample of what js can do while working with functions and DOM manipulation.
 
 # Project description:
 
